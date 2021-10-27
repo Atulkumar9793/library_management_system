@@ -185,7 +185,7 @@ public class Login extends JFrame {
 					}catch(Exception e1) {
 						e1.printStackTrace();
 					}
-				}
+				} 
 		 	}
 		 });
 		 lblNewLabel_3.setForeground(new Color(255, 99, 71));
@@ -195,7 +195,7 @@ public class Login extends JFrame {
 		 
 		 lblNewLabel_9 = new JLabel("");
 		 lblNewLabel_9.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
-		 lblNewLabel_9.setIcon(new ImageIcon("C:\\Users\\divya\\eclipse-workspace\\liberary management system\\library management system\\images\\eye-view-6451(1).png"));
+		 lblNewLabel_9.setIcon(new ImageIcon("E:\\DSLR photos\\atul.jpg"));
 		 lblNewLabel_9.addMouseListener(new MouseAdapter() {
 		 	@Override
 		 	public void mouseClicked(MouseEvent e) {
@@ -364,7 +364,7 @@ public class Login extends JFrame {
 			
 			
 		JLabel lblNewLabel_6 = new JLabel("");
-		lblNewLabel_6.setIcon( new ImageIcon("C:\\Users\\divya\\eclipse-workspace\\liberary management system\\library management system\\images\\login (2).jpg"));
+		lblNewLabel_6.setIcon( new ImageIcon("E:\\DSLR photos\\atul.jpg"));
 		lblNewLabel_6.setBounds(0, -11, 1142, 665);
 		contentPane.add(lblNewLabel_6);
 		
